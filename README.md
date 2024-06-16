@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniruddh Kulkarni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddh-11-stack&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddh-11-stack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddh-11-stack" alt="aniruddh-11-stack" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/anirudd38468907" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/anirudd38468907?logo=twitter&style=for-the-badge" alt="https://x.com/anirudd38468907" /></a> </p>
+<p align="left"> <a href="https://x.com/anirudd38468907" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/anirudd38468907?logo=twitter&style=for-the-badge" alt="https://x.com/anirudd38468907" /></a> </p>
 
 - 🔭 I’m currently working on **Dashboard using Power BI**
 
