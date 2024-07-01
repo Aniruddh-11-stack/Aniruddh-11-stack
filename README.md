@@ -21,10 +21,13 @@
                 width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Anirudd38468907) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aniruddh-kulkarni-51b185219/)
-[![Visits Badge](https://badges.pufler.dev/visits/Aniruddh-11-stack/Aniruddh-11-stack?style=for-the-badge)](https://github.com/Aniruddh-11-stack)
-[<img src="https://img.shields.io/badge/hackerrank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />](https://www.hackerrank.com/profile/anikulks)
+
+<a href="https://x.com/Anirudd38468907" target="_blank"><img src="https://img.shields.io/badge/your_badge_label-black.svg?&style=flat-square" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/aniruddh-kulkarni-51b185219" target="_blank"><img src="https://img.shields.io/badge/your_badge_label-blue.svg?&style=flat-square" alt="LinkedIn"></a>
+<a href="https://github.com/Aniruddh-11-stack" target="_blank"><img src="https://img.shields.io/badge/your_badge_label-grey.svg?&style=flat-square" alt="GitHub"></a>
+<a href="https://www.hackerrank.com/profile/anikulks" target="_blank"><img src="https://img.shields.io/badge/your_badge_label-green.svg?&style=flat-square" alt="Hackerank"></a>
+
+
 
 
 </p>
