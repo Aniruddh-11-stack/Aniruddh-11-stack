@@ -22,7 +22,7 @@
 
 <p align = "center">
 
-<a href="https://x.com/Anirudd38468907" target="_blank"><img src="https://img.shields.io/badge/Twitter-black.svg?&style=flat-square" alt="Twitter"></a>
+<a href="https://x.com/aniruddhk11" target="_blank"><img src="https://img.shields.io/badge/Twitter-black.svg?&style=flat-square" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/aniruddh-kulkarni-51b185219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square" alt="LinkedIn"></a>
 <a href="https://github.com/Aniruddh-11-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub-grey.svg?&style=flat-square" alt="GitHub"></a>
 <a href="https://www.hackerrank.com/profile/anikulks" target="_blank"><img src="https://img.shields.io/badge/Hackerank-green.svg?&style=flat-square" alt="Hackerank"></a>
