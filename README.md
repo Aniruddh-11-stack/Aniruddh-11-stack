@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aniruddh Kulkarni! 👋 <a href="https://Aniruddh-11-stack.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
+<h1 align="center">Hey, I'm Aniruddh Kulkarni! <a href="https://Aniruddh-11-stack.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%"/>
